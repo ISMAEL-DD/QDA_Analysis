@@ -6,10 +6,10 @@ Notre projet consiste à comprendre, utiliser et comparer l'algorithme Quadratic
 
 ## Auteurs : 
 
-ALI Laitissia (partie 2)
-Djoulde DIALLO Ismael  (partie 1 &  4.3)
-SCHOLLORN-LEOPOLD Alizée  (partie 3)
-ZIDI Yacine  (partie 4)
+AL
+Djoulde DIALLO Ismael  
+SlA
+
 
 
 ## Table des matières : 
